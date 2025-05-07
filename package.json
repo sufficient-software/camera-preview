@@ -54,6 +54,7 @@
     "dist/",
     "ios/",
     "android/",
+    "Package.swift",
     "CapacitorCommunityCameraPreview.podspec"
   ],
   "keywords": [
